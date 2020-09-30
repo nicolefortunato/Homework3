@@ -1,0 +1,23 @@
+h1 {
+        color: darkred;
+        font-family: "Arial Black";
+        font-size: 80px;
+        text-align: center;
+        text-decoration: underline;
+        font-style: oblique;
+        }
+h2 {
+        color: green;
+        font-family: "Comic Sans MS";
+        font-size: 14px;
+        text-align: left;
+        }
+
+h3 {
+        color: black;
+        font-family: "Arial Black";
+        font-size: 20px;
+        border-style: groove;
+        border-color: red;
+        text-align: center;
+        }
